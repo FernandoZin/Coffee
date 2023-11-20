@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+   padding: 0;
+}
+
+body{
+   font-family: 'Poppins', sans-serif;
+   background-color: #532A96;
+   color: white;
+}
+
+.cabecalho {
+   background-color: #602D94;
+   color:  white;
+   display: flex ;
+   justify-content: space-around;
+   padding: 24px 0;
+}
+
+.link-icone{
+   width: 50px;
+   padding: 5 5;
+
+}
+
+.cabecalho-imagem{
+     width: 20%;
+
+
+}
+
+.cabecalho-lista-item{
+   display: inline-block;
+   margin: 25px 25px;
+   font-size: 23px;
+}
+
+
+.escola-imagem{
+   width: 25%;
+}
+
+.escola{
+   background-image: #532A96;
+   color: white;
+   display: flex;
+   justify-content:  center; 
+   align-items: center;
+   padding: 24px 0;
+}
+
+.escola-div-conteudo{
+   width: 25%;
+}
+.escola-titulo{ 
+   
+   padding: 35px;
+   background-image: #532A96;
+   color: white;
+
+
+.rodape1{
+   background-color: black;
+   text-align: center;
+}
+
+.rodape-imagem1{
+   height: 60px;
+   padding: 12px 0;
+}
